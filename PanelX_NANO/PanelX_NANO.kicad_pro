@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.254
+          "min_clearance": 0.508
         }
       },
       "diff_pair_dimensions": [
@@ -119,8 +119,7 @@
         "use_height_for_length_calcs": true
       },
       "track_widths": [
-        0.0,
-        0.4
+        0.0
       ],
       "via_dimensions": [
         {
@@ -347,7 +346,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "panelX_MEGA.kicad_pro",
+    "filename": "PanelX_NANO.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -426,28 +425,32 @@
   },
   "sheets": [
     [
-      "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
+      "8593f5d4-2294-43cc-aa13-500baa164c50",
       ""
     ],
     [
-      "8d38600c-a4f6-4c91-b8ff-f6481f33e5f5",
-      "MEGA"
+      "fad6ca05-aa73-4a01-987b-9ee4a55aab79",
+      "NANO"
     ],
     [
-      "6965599c-44bd-48f9-8f3e-45617550b990",
+      "06340d88-0302-42bd-8ab5-7ab868c485ff",
       "Xnet"
     ],
     [
-      "dd25d695-a684-4a33-820d-69ac2ecd0345",
-      "flatcable"
+      "8a8b619f-d214-4b51-9eea-02ae8bfc5aec",
+      "Flatcable"
     ],
     [
-      "aada73cf-2a0c-457c-90c4-d7eea8cd90cc",
-      "Lnet"
+      "9140cc04-4fb7-486f-a0f7-f435f58e2d10",
+      "EEPROM"
     ],
     [
-      "dcc99b46-58fc-462d-9a69-6389ef8e806d",
-      "eeprom"
+      "adb5d078-312e-477a-a6a1-1aab0b58eb9a",
+      "voltageRegulator"
+    ],
+    [
+      "c1b13230-c266-4d64-b691-fd85dbd318a0",
+      "atmega328"
     ]
   ],
   "text_variables": {}

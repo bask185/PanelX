@@ -163,7 +163,7 @@
       (reference "J301") (unit 1) (value "RJ12") (footprint "Connector_RJ:RJ12_Amphenol_54601")
     )
     (path "/dd25d695-a684-4a33-820d-69ac2ecd0345/561725eb-f7de-4566-ae78-f6b150a94ea6"
-      (reference "J401") (unit 1) (value "Conn_02x20_Counter_Clockwise") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical_SMD")
+      (reference "J401") (unit 1) (value "Conn_02x20_Counter_Clockwise") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical")
     )
     (path "/aada73cf-2a0c-457c-90c4-d7eea8cd90cc/884efda9-a126-4c1c-8fc2-5a7023f44250"
       (reference "J501") (unit 1) (value "RJ12") (footprint "Connector_RJ:RJ12_Amphenol_54601")

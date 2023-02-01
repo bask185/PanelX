@@ -1051,7 +1051,7 @@
     (uuid 884efda9-a126-4c1c-8fc2-5a7023f44250)
     (property "Reference" "J501" (id 0) (at 64.77 71.12 0))
     (property "Value" "RJ12" (id 1) (at 72.39 71.12 0))
-    (property "Footprint" "" (id 2) (at 69.85 81.915 90)
+    (property "Footprint" "Connector_RJ:RJ12_Amphenol_54601" (id 2) (at 69.85 81.915 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 69.85 81.915 90)

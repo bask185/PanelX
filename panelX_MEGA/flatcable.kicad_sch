@@ -897,7 +897,7 @@
     (in_bom yes) (on_board yes)
     (uuid 561725eb-f7de-4566-ae78-f6b150a94ea6)
     (property "Reference" "J401" (id 0) (at 142.24 55.9902 0))
-    (property "Value" "" (id 1) (at 146.05 48.26 0))
+    (property "Value" "Conn_02x20_Counter_Clockwise" (id 1) (at 146.05 48.26 0))
     (property "Footprint" "" (id 2) (at 140.97 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
