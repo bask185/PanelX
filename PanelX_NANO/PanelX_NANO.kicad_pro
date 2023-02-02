@@ -429,16 +429,8 @@
       ""
     ],
     [
-      "fad6ca05-aa73-4a01-987b-9ee4a55aab79",
-      "NANO"
-    ],
-    [
       "06340d88-0302-42bd-8ab5-7ab868c485ff",
       "Xnet"
-    ],
-    [
-      "8a8b619f-d214-4b51-9eea-02ae8bfc5aec",
-      "Flatcable"
     ],
     [
       "9140cc04-4fb7-486f-a0f7-f435f58e2d10",
@@ -447,6 +439,10 @@
     [
       "adb5d078-312e-477a-a6a1-1aab0b58eb9a",
       "voltageRegulator"
+    ],
+    [
+      "aad4f6f9-4fa8-4c9f-a079-3d8610d5e32c",
+      "b2b_connector"
     ],
     [
       "c1b13230-c266-4d64-b691-fd85dbd318a0",
