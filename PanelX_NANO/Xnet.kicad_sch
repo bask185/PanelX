@@ -725,7 +725,7 @@
     (property "Value" "RJ12" (id 1) (at 172.212 73.4572 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 163.83 72.39 90)
+    (property "Footprint" "Connector_RJ:RJ25_Wayconn_MJEA-660X1_Horizontal" (id 2) (at 163.83 72.39 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 163.83 72.39 90)
